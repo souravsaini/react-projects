@@ -1,7 +1,7 @@
 import firebase from "firebase";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBtBXzDAGGZ7sbhCaEqQSO_MpV9Yd-B6n8",
+  apiKey: "XXXXXXXXXXXXXXX",
   authDomain: "todo-app-b9310.firebaseapp.com",
   databaseURL: "https://todo-app-b9310.firebaseio.com",
   projectId: "todo-app-b9310",
